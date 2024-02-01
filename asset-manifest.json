@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/https//:ANKIT-KASHYAP.github.io/tv-show/static/css/main.cbea5c9b.css",
+    "main.js": "/https//:ANKIT-KASHYAP.github.io/tv-show/static/js/main.54391e9a.js",
+    "index.html": "/https//:ANKIT-KASHYAP.github.io/tv-show/index.html",
+    "main.cbea5c9b.css.map": "/https//:ANKIT-KASHYAP.github.io/tv-show/static/css/main.cbea5c9b.css.map",
+    "main.54391e9a.js.map": "/https//:ANKIT-KASHYAP.github.io/tv-show/static/js/main.54391e9a.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.cbea5c9b.css",
+    "static/js/main.54391e9a.js"
+  ]
+}
