@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/MyShowApp/static/css/main.cbea5c9b.css",
+    "main.js": "/MyShowApp/static/js/main.54391e9a.js",
+    "index.html": "/MyShowApp/index.html",
+    "main.cbea5c9b.css.map": "/MyShowApp/static/css/main.cbea5c9b.css.map",
+    "main.54391e9a.js.map": "/MyShowApp/static/js/main.54391e9a.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.cbea5c9b.css",
+    "static/js/main.54391e9a.js"
+  ]
+}

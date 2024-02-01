@@ -1,0 +1,16 @@
+/* components/ShowDetails/ShowDetails.css */
+.show-details {
+    padding: 20px;
+  }
+  
+  .back-btn {
+    background-color: #007bff;
+    color: #fff;
+    text-decoration: none;
+    padding: 5px 10px;
+    border-radius: 3px;
+    margin-top: 10px;
+    display: inline-block;
+  }
+  
+  
